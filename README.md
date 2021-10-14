@@ -1,14 +1,17 @@
-# Xanoni-GPG-PGP-PubKey
-My current OpenPGP public key (E1DB E87B F079 A49E 892C  12FD 2E7C E32A 81C3 E127)
+# Xanoni-OpenPGP-Minisign-PubKeys
 
-**Mirrors:**
+1) My current OpenPGP public key:
+(E1DB E87B F079 A49E 892C  12FD 2E7C E32A 81C3 E127)
+2) Bonus: my current Minisign public key (see bottom of file)
+
+**Mirrors (OpenPGP):**
 
 - https://keys.openpgp.org/vks/v1/by-fingerprint/E1DBE87BF079A49E892C12FD2E7CE32A81C3E127
 - https://anonpaste.org/?eb066acd6e42709f#9MpdEzRdzJ5ntQcizLjN4mFMaKLi8ArdbQMLhwaFQ5ji
 - https://gist.github.com/xanoni/fce81bfbcaac007b7060ded6460432e0
 - https://github.com/xanoni/Xanoni-GPG-PGP-PubKey/blob/main/Xanoni%20GitHub%20Key%20(81C3E127)%20%E2%80%93%20Public.asc
 
-**Armor:**
+**Armor (OpenPGP):**
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -62,4 +65,11 @@ t/kFN4S4BTR87FXUq5qY22Xt3dON2S+cBGlkqyi78t0/goRIe6lZYTGqfQRXL3uU
 owBMKtqbfkvIWqcpFjicgrYi5ELkehIhJLPcVpx/utXEAPZWJkIjJJQ=
 =2YPf
 -----END PGP PUBLIC KEY BLOCK-----
+```
+
+**Bonus (Minisign):**
+
+```
+untrusted comment: minisign public key D8C8689F7AB790DB
+RWTbkLd6n2jI2CWxJ4URBgIMYW8xEGlLafmiA5oezxkuBZHC/WpiTacD
 ```
